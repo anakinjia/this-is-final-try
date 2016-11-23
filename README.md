@@ -26,3 +26,7 @@ some /pen/
 void main
 ```
 
+```logo
+to setup
+end
+```
